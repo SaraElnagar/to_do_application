@@ -1,0 +1,23 @@
+{
+  "helloWorld": "Hello World!",
+  "app_title":"To Do List",
+  "task_list":"Task List",
+  "add_new_task":"Add new Task",
+  "enter_task_title":"Enter Task Title",
+  "please_enter_task_title":"Please Enter Task Title",
+  "enter_description_title":"Enter Description Title",
+  "please_enter_description_title":"Please Description Title",
+  "select_date":"Select Date",
+  "settings":"Settings",
+  "language":"Language",
+  "arabic":"Arabic",
+  "english":"English",
+  "mode":"Mode",
+  "light":"Light",
+  "dark":"Dark",
+  "title":"Title",
+  "description":"Description",
+  "add":"Add",
+  "edit_task":"Edit Task",
+  "save_changes":"Save Changes"
+}
