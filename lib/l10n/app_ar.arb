@@ -1,0 +1,23 @@
+{
+  "helloWorld": "Hello World!",
+  "app_title":"قائمة المهام",
+  "task_list":"قائمة المهام",
+  "add_new_task":"اضافة مهمة جديدة",
+  "enter_task_title":"ادخل عنوان المهمة",
+  "please_enter_task_title":"من فضلك ادخل عنوان المهمة",
+  "enter_description_title":"ادخل وصف المهمة",
+  "please_enter_description_title":"من فضلك ادخل وصف المهمة",
+  "select_date":"اختر التاريخ",
+  "settings":"الاعدادات",
+  "language":"اللغة",
+  "arabic":"العربية",
+  "english":"الانجليزية",
+  "mode":"السمة",
+  "light":"مضئ",
+  "dark":"ليلي",
+  "title":"العنوان",
+  "description":"الوصف",
+  "add":"اضافة",
+  "edit_task":"تعديل المهمة",
+  "save_changes":"حفظ التغييرات"
+}

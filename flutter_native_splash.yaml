@@ -1,0 +1,18 @@
+# flutter_native_splash-development.yaml
+flutter_native_splash:
+  # Android below 12 and IOS
+  color: "#DFECDB"
+  image: assets/images/logo_splash_screen_light.png
+  branding: assets/images/branding_splash_screen.png
+  color_dark: "#060E1E"
+  image_dark: assets/images/logo_splash_screen_dark.png
+  branding_dark: assets/images/branding_splash_screen.png
+
+  # Android 12
+  android_12:
+    image: assets/images/logo_splash_screen_light.png
+    icon_background_color: "#DFECDB"
+    branding: assets/images/branding_splash_screen.png
+    image_dark: assets/images/logo_splash_screen_dark.png
+    icon_background_color_dark: "#060E1E"
+    branding_dark: assets/images/branding_splash_screen.png
